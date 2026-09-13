@@ -25,7 +25,7 @@ Reserved for NumPy/Pandas/Kaggle work, starting once I complete CS50P.
 | Skill | Status |
 |---|---|
 | ML fundamentals (evaluation, metrics, data quality, splitting, reproducibility) | ✅ Strong conceptual foundation |
-| Python (CS50P) | 🟡 Week 6 |
+| Python (CS50P) | 🟡 Week 7 |
 | NumPy / Pandas | ⬜ Upcoming |
 | Git/GitHub | 🟡 In progress (this repo) |
 | Classical ML implementation | ⬜ Month 3 of roadmap |
